@@ -1,0 +1,144 @@
+{
+  "last_updated": "2026-07-07",
+  "staleness_threshold_days": 90,
+  "source_note": "Pesos aproximados, tomados de factsheets públicos (SSGA, iShares, VanEck) en la fecha de last_updated. Revisar y actualizar manualmente pasado el umbral de caducidad.",
+  "sectors": {
+    "XLK": {
+      "full_name": "Tecnología",
+      "etf_provider": "State Street (SPDR)",
+      "top_holdings": [
+        {"ticker": "NVDA", "name": "NVIDIA",              "weight_pct": 12.98},
+        {"ticker": "AAPL", "name": "Apple",                "weight_pct": 12.47},
+        {"ticker": "MSFT", "name": "Microsoft",            "weight_pct": 7.98},
+        {"ticker": "AVGO", "name": "Broadcom",             "weight_pct": 4.69},
+        {"ticker": "AMD",  "name": "Advanced Micro Devices","weight_pct": 4.43}
+      ]
+    },
+    "XLF": {
+      "full_name": "Financiero",
+      "etf_provider": "State Street (SPDR)",
+      "top_holdings": [
+        {"ticker": "BRK.B", "name": "Berkshire Hathaway", "weight_pct": 11.93},
+        {"ticker": "JPM",   "name": "JPMorgan Chase",      "weight_pct": 11.13},
+        {"ticker": "V",     "name": "Visa",                "weight_pct": 7.33},
+        {"ticker": "MA",    "name": "Mastercard",          "weight_pct": 5.52},
+        {"ticker": "BAC",   "name": "Bank of America",     "weight_pct": 4.65}
+      ]
+    },
+    "XLV": {
+      "full_name": "Salud",
+      "etf_provider": "State Street (SPDR)",
+      "top_holdings": [
+        {"ticker": "LLY",  "name": "Eli Lilly",           "weight_pct": 16.18},
+        {"ticker": "JNJ",  "name": "Johnson & Johnson",   "weight_pct": 10.67},
+        {"ticker": "ABBV", "name": "AbbVie",               "weight_pct": 7.77},
+        {"ticker": "UNH",  "name": "UnitedHealth Group",   "weight_pct": 6.51},
+        {"ticker": "MRK",  "name": "Merck & Co.",          "weight_pct": 5.39}
+      ]
+    },
+    "XLY": {
+      "full_name": "Consumo discrecional",
+      "etf_provider": "State Street (SPDR)",
+      "top_holdings": [
+        {"ticker": "AMZN", "name": "Amazon.com",          "weight_pct": 22.62},
+        {"ticker": "TSLA", "name": "Tesla",                "weight_pct": 18.37},
+        {"ticker": "HD",   "name": "The Home Depot",       "weight_pct": 5.91},
+        {"ticker": "MCD",  "name": "McDonald's",           "weight_pct": 4.31},
+        {"ticker": "TJX",  "name": "TJX Companies",        "weight_pct": 3.99}
+      ]
+    },
+    "XLP": {
+      "full_name": "Consumo básico",
+      "etf_provider": "State Street (SPDR)",
+      "top_holdings": [
+        {"ticker": "PG",   "name": "Procter & Gamble",    "weight_pct": 12.5},
+        {"ticker": "COST", "name": "Costco Wholesale",     "weight_pct": 11.5},
+        {"ticker": "WMT",  "name": "Walmart",              "weight_pct": 10.0},
+        {"ticker": "KO",   "name": "Coca-Cola",            "weight_pct": 8.5},
+        {"ticker": "PM",   "name": "Philip Morris Intl.",  "weight_pct": 5.5}
+      ],
+      "note": "Pesos aproximados, no verificados en el factsheet más reciente — revisar con prioridad en la próxima actualización manual."
+    },
+    "XLE": {
+      "full_name": "Energía",
+      "etf_provider": "State Street (SPDR)",
+      "top_holdings": [
+        {"ticker": "XOM", "name": "Exxon Mobil",          "weight_pct": 22.40},
+        {"ticker": "CVX", "name": "Chevron",               "weight_pct": 16.23},
+        {"ticker": "COP", "name": "ConocoPhillips",        "weight_pct": 6.53},
+        {"ticker": "WMB", "name": "Williams Companies",    "weight_pct": 5.04},
+        {"ticker": "VLO", "name": "Valero Energy",         "weight_pct": 4.71}
+      ]
+    },
+    "XLI": {
+      "full_name": "Industrial",
+      "etf_provider": "State Street (SPDR)",
+      "top_holdings": [
+        {"ticker": "GE",   "name": "GE Aerospace",        "weight_pct": 5.5},
+        {"ticker": "CAT",  "name": "Caterpillar",          "weight_pct": 5.0},
+        {"ticker": "UBER", "name": "Uber Technologies",    "weight_pct": 4.5},
+        {"ticker": "HON",  "name": "Honeywell",            "weight_pct": 4.0},
+        {"ticker": "RTX",  "name": "RTX Corporation",      "weight_pct": 3.8}
+      ],
+      "note": "Pesos aproximados, no verificados en el factsheet más reciente — revisar con prioridad en la próxima actualización manual."
+    },
+    "XLB": {
+      "full_name": "Materiales",
+      "etf_provider": "State Street (SPDR)",
+      "top_holdings": [
+        {"ticker": "LIN", "name": "Linde",                "weight_pct": 20.0},
+        {"ticker": "SHW", "name": "Sherwin-Williams",      "weight_pct": 9.0},
+        {"ticker": "FCX", "name": "Freeport-McMoRan",      "weight_pct": 6.5},
+        {"ticker": "APD", "name": "Air Products",          "weight_pct": 6.0},
+        {"ticker": "ECL", "name": "Ecolab",                "weight_pct": 5.5}
+      ],
+      "note": "Pesos aproximados, no verificados en el factsheet más reciente — revisar con prioridad en la próxima actualización manual."
+    },
+    "XLU": {
+      "full_name": "Utilities",
+      "etf_provider": "State Street (SPDR)",
+      "top_holdings": [
+        {"ticker": "NEE", "name": "NextEra Energy",       "weight_pct": 11.0},
+        {"ticker": "SO",  "name": "Southern Company",      "weight_pct": 7.5},
+        {"ticker": "DUK", "name": "Duke Energy",           "weight_pct": 7.0},
+        {"ticker": "CEG", "name": "Constellation Energy",  "weight_pct": 6.5},
+        {"ticker": "D",   "name": "Dominion Energy",       "weight_pct": 4.5}
+      ],
+      "note": "Pesos aproximados, no verificados en el factsheet más reciente — revisar con prioridad en la próxima actualización manual."
+    },
+    "XLC": {
+      "full_name": "Comunicación",
+      "etf_provider": "State Street (SPDR)",
+      "top_holdings": [
+        {"ticker": "META",  "name": "Meta Platforms",     "weight_pct": 19.60},
+        {"ticker": "GOOGL", "name": "Alphabet (A)",        "weight_pct": 12.45},
+        {"ticker": "GOOG",  "name": "Alphabet (C)",        "weight_pct": 9.95},
+        {"ticker": "TTWO",  "name": "Take-Two Interactive","weight_pct": 5.05},
+        {"ticker": "NFLX",  "name": "Netflix",             "weight_pct": 5.04}
+      ]
+    },
+    "SMH": {
+      "full_name": "Semiconductores",
+      "etf_provider": "VanEck",
+      "top_holdings": [
+        {"ticker": "NVDA", "name": "NVIDIA",              "weight_pct": 20.0},
+        {"ticker": "TSM",  "name": "Taiwan Semiconductor", "weight_pct": 12.0},
+        {"ticker": "AVGO", "name": "Broadcom",             "weight_pct": 9.0},
+        {"ticker": "AMD",  "name": "Advanced Micro Devices","weight_pct": 5.0},
+        {"ticker": "ASML", "name": "ASML Holding",         "weight_pct": 4.5}
+      ],
+      "note": "Pesos aproximados, no verificados en el factsheet más reciente — revisar con prioridad en la próxima actualización manual."
+    },
+    "ITA": {
+      "full_name": "Aeroespacial y Defensa",
+      "etf_provider": "iShares",
+      "top_holdings": [
+        {"ticker": "GE",   "name": "GE Aerospace",        "weight_pct": 22.29},
+        {"ticker": "RTX",  "name": "RTX Corporation",      "weight_pct": 15.18},
+        {"ticker": "BA",   "name": "Boeing",               "weight_pct": 9.08},
+        {"ticker": "TDG",  "name": "TransDigm Group",      "weight_pct": 4.53},
+        {"ticker": "GD",   "name": "General Dynamics",     "weight_pct": 4.46}
+      ]
+    }
+  }
+}
