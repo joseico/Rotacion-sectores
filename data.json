@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T16:57:17.458010+00:00",
+  "generated_at": "2026-07-16T20:14:39.854507+00:00",
   "benchmark": "SPY",
   "params": {
     "zscore_window": 12,
@@ -38,8 +38,8 @@
           -0.695
         ],
         [
-          -1.671,
-          -0.693
+          -1.614,
+          -0.625
         ]
       ],
       "quadrant": "Rezagando"
@@ -76,11 +76,11 @@
           0.508
         ],
         [
-          1.079,
-          -0.072
+          1.331,
+          0.14
         ]
       ],
-      "quadrant": "Debilitando"
+      "quadrant": "Liderando"
     },
     "XLV": {
       "full_name": "Salud",
@@ -114,11 +114,11 @@
           -0.63
         ],
         [
-          -0.128,
-          0.048
+          0.175,
+          0.302
         ]
       ],
-      "quadrant": "Mejorando"
+      "quadrant": "Liderando"
     },
     "XLY": {
       "full_name": "Consumo discrecional",
@@ -152,8 +152,8 @@
           0.029
         ],
         [
-          0.125,
-          1.058
+          0.193,
+          1.11
         ]
       ],
       "quadrant": "Liderando"
@@ -190,8 +190,8 @@
           0.036
         ],
         [
-          1.005,
-          0.715
+          1.558,
+          1.156
         ]
       ],
       "quadrant": "Liderando"
@@ -228,8 +228,8 @@
           0.678
         ],
         [
-          1.149,
-          -0.353
+          1.3,
+          -0.187
         ]
       ],
       "quadrant": "Debilitando"
@@ -266,8 +266,46 @@
           -0.168
         ],
         [
-          -1.273,
-          0.014
+          -0.904,
+          0.822
+        ]
+      ],
+      "quadrant": "Mejorando"
+    },
+    "XLB": {
+      "full_name": "Materiales",
+      "tail": [
+        [
+          -0.499,
+          0.446
+        ],
+        [
+          -1.821,
+          -1.401
+        ],
+        [
+          -1.719,
+          -1.126
+        ],
+        [
+          -1.074,
+          -0.57
+        ],
+        [
+          -0.84,
+          0.457
+        ],
+        [
+          -0.833,
+          0.683
+        ],
+        [
+          -1.165,
+          0.164
+        ],
+        [
+          -0.212,
+          0.583
         ]
       ],
       "quadrant": "Mejorando"
@@ -304,11 +342,11 @@
           0.228
         ],
         [
-          -1.115,
-          -0.444
+          0.0,
+          0.079
         ]
       ],
-      "quadrant": "Rezagando"
+      "quadrant": "Liderando"
     },
     "XLC": {
       "full_name": "Comunicación",
@@ -342,11 +380,11 @@
           1.026
         ],
         [
-          1.735,
-          0.753
+          1.326,
+          -0.048
         ]
       ],
-      "quadrant": "Liderando"
+      "quadrant": "Debilitando"
     },
     "SMH": {
       "full_name": "Semiconductores",
@@ -380,8 +418,8 @@
           -0.389
         ],
         [
-          -1.465,
-          -0.272
+          -1.441,
+          -0.241
         ]
       ],
       "quadrant": "Rezagando"
@@ -418,8 +456,8 @@
           -0.126
         ],
         [
-          -1.737,
-          -0.653
+          -1.567,
+          -0.402
         ]
       ],
       "quadrant": "Rezagando"
