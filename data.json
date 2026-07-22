@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T23:15:25.686007+00:00",
+  "generated_at": "2026-07-22T17:50:41.440702+00:00",
   "benchmark": "SPY",
   "params": {
     "zscore_window": 12,
@@ -9,10 +9,6 @@
     "XLK": {
       "full_name": "Tecnología",
       "tail": [
-        [
-          -0.255,
-          1.602
-        ],
         [
           -1.021,
           0.101
@@ -40,6 +36,10 @@
         [
           0.03,
           1.424
+        ],
+        [
+          0.059,
+          1.238
         ]
       ],
       "quadrant": "Liderando"
@@ -47,10 +47,6 @@
     "XLF": {
       "full_name": "Financiero",
       "tail": [
-        [
-          0.217,
-          -1.069
-        ],
         [
           1.123,
           0.561
@@ -78,6 +74,10 @@
         [
           0.3,
           -0.931
+        ],
+        [
+          0.127,
+          -1.027
         ]
       ],
       "quadrant": "Debilitando"
@@ -85,10 +85,6 @@
     "XLV": {
       "full_name": "Salud",
       "tail": [
-        [
-          -0.702,
-          -1.577
-        ],
         [
           -0.205,
           -0.733
@@ -116,6 +112,10 @@
         [
           -0.26,
           -0.318
+        ],
+        [
+          -0.487,
+          -0.665
         ]
       ],
       "quadrant": "Rezagando"
@@ -123,10 +123,6 @@
     "XLY": {
       "full_name": "Consumo discrecional",
       "tail": [
-        [
-          -0.966,
-          -1.022
-        ],
         [
           -1.085,
           0.159
@@ -154,6 +150,10 @@
         [
           -1.612,
           -1.507
+        ],
+        [
+          -2.067,
+          -1.342
         ]
       ],
       "quadrant": "Rezagando"
@@ -161,10 +161,6 @@
     "XLP": {
       "full_name": "Consumo básico",
       "tail": [
-        [
-          -0.981,
-          -0.775
-        ],
         [
           -0.008,
           0.034
@@ -192,17 +188,17 @@
         [
           -0.157,
           -1.17
+        ],
+        [
+          0.049,
+          -0.98
         ]
       ],
-      "quadrant": "Rezagando"
+      "quadrant": "Debilitando"
     },
     "XLE": {
       "full_name": "Energía",
       "tail": [
-        [
-          0.326,
-          -0.151
-        ],
         [
           1.897,
           0.526
@@ -230,17 +226,17 @@
         [
           1.357,
           0.338
+        ],
+        [
+          1.556,
+          -0.458
         ]
       ],
-      "quadrant": "Liderando"
+      "quadrant": "Debilitando"
     },
     "XLI": {
       "full_name": "Industrial",
       "tail": [
-        [
-          -1.506,
-          -0.642
-        ],
         [
           -1.311,
           -0.125
@@ -268,17 +264,17 @@
         [
           -1.047,
           0.225
+        ],
+        [
+          -0.871,
+          -0.155
         ]
       ],
-      "quadrant": "Mejorando"
+      "quadrant": "Rezagando"
     },
     "XLB": {
       "full_name": "Materiales",
       "tail": [
-        [
-          -1.074,
-          -0.57
-        ],
         [
           -0.84,
           0.457
@@ -306,17 +302,17 @@
         [
           -0.913,
           -0.432
+        ],
+        [
+          0.592,
+          0.27
         ]
       ],
-      "quadrant": "Rezagando"
+      "quadrant": "Liderando"
     },
     "XLU": {
       "full_name": "Utilities",
       "tail": [
-        [
-          -0.989,
-          -0.576
-        ],
         [
           -0.1,
           0.239
@@ -344,17 +340,17 @@
         [
           -1.15,
           -0.776
+        ],
+        [
+          1.567,
+          0.862
         ]
       ],
-      "quadrant": "Rezagando"
+      "quadrant": "Liderando"
     },
     "XLC": {
       "full_name": "Comunicación",
       "tail": [
-        [
-          1.059,
-          -0.897
-        ],
         [
           1.422,
           1.089
@@ -382,6 +378,10 @@
         [
           -1.021,
           -2.145
+        ],
+        [
+          -1.407,
+          -1.508
         ]
       ],
       "quadrant": "Rezagando"
@@ -389,10 +389,6 @@
     "SMH": {
       "full_name": "Semiconductores",
       "tail": [
-        [
-          -0.506,
-          1.555
-        ],
         [
           -1.155,
           0.022
@@ -420,17 +416,17 @@
         [
           -0.124,
           1.367
+        ],
+        [
+          0.334,
+          1.649
         ]
       ],
-      "quadrant": "Mejorando"
+      "quadrant": "Liderando"
     },
     "ITA": {
       "full_name": "Aeroespacial y Defensa",
       "tail": [
-        [
-          -1.555,
-          -1.353
-        ],
         [
           -1.697,
           -0.825
@@ -458,6 +454,10 @@
         [
           -1.091,
           0.68
+        ],
+        [
+          -0.625,
+          1.104
         ]
       ],
       "quadrant": "Mejorando"
