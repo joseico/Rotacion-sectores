@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T02:29:37.688002+00:00",
+  "generated_at": "2026-08-31T19:20:50.329122+00:00",
   "benchmark": "SPY",
   "params": {
     "zscore_window": 12,
@@ -38,8 +38,8 @@
           2.09
         ],
         [
-          0.052,
-          0.946
+          0.431,
+          1.19
         ]
       ],
       "quadrant": "Liderando"
@@ -76,8 +76,8 @@
           -1.809
         ],
         [
-          0.42,
-          -0.923
+          0.185,
+          -1.077
         ]
       ],
       "quadrant": "Debilitando"
@@ -114,8 +114,8 @@
           -1.512
         ],
         [
-          -0.186,
-          -1.267
+          -0.145,
+          -1.237
         ]
       ],
       "quadrant": "Rezagando"
@@ -152,8 +152,8 @@
           -1.811
         ],
         [
-          -0.294,
-          -0.49
+          -0.519,
+          -0.632
         ]
       ],
       "quadrant": "Rezagando"
@@ -190,8 +190,8 @@
           -2.789
         ],
         [
-          -0.489,
-          -1.231
+          -0.547,
+          -1.269
         ]
       ],
       "quadrant": "Rezagando"
@@ -228,11 +228,11 @@
           -1.195
         ],
         [
-          -0.076,
-          -0.11
+          0.974,
+          0.668
         ]
       ],
-      "quadrant": "Rezagando"
+      "quadrant": "Liderando"
     },
     "XLI": {
       "full_name": "Industrial",
@@ -266,8 +266,8 @@
           -0.481
         ],
         [
-          -1.703,
-          -0.419
+          -1.958,
+          -1.078
         ]
       ],
       "quadrant": "Rezagando"
@@ -304,11 +304,11 @@
           -1.063
         ],
         [
-          0.316,
-          -0.77
+          -0.085,
+          -1.072
         ]
       ],
-      "quadrant": "Debilitando"
+      "quadrant": "Rezagando"
     },
     "XLU": {
       "full_name": "Utilities",
@@ -342,8 +342,8 @@
           -0.875
         ],
         [
-          -1.857,
-          -1.173
+          -2.159,
+          -1.501
         ]
       ],
       "quadrant": "Rezagando"
@@ -380,8 +380,8 @@
           -1.987
         ],
         [
-          0.979,
-          -0.909
+          0.195,
+          -1.49
         ]
       ],
       "quadrant": "Debilitando"
@@ -418,11 +418,11 @@
           1.664
         ],
         [
-          -1.146,
-          -0.136
+          -0.894,
+          0.114
         ]
       ],
-      "quadrant": "Rezagando"
+      "quadrant": "Mejorando"
     },
     "ITA": {
       "full_name": "Aeroespacial y Defensa",
@@ -456,11 +456,11 @@
           0.382
         ],
         [
-          -1.209,
-          0.249
+          -1.513,
+          -0.284
         ]
       ],
-      "quadrant": "Mejorando"
+      "quadrant": "Rezagando"
     }
   }
 }
