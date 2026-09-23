@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:27:07.223262+00:00",
+  "generated_at": "2026-09-23T17:39:05.925092+00:00",
   "benchmark": "SPY",
   "params": {
     "zscore_window": 12,
@@ -38,8 +38,8 @@
           1.461
         ],
         [
-          2.1,
-          1.053
+          2.098,
+          1.051
         ]
       ],
       "quadrant": "Liderando"
@@ -76,8 +76,8 @@
           -1.491
         ],
         [
-          -2.292,
-          -1.705
+          -2.121,
+          -1.315
         ]
       ],
       "quadrant": "Rezagando"
@@ -114,11 +114,11 @@
           -0.667
         ],
         [
-          0.016,
-          -0.019
+          -0.085,
+          -0.07
         ]
       ],
-      "quadrant": "Debilitando"
+      "quadrant": "Rezagando"
     },
     "XLY": {
       "full_name": "Consumo discrecional",
@@ -152,11 +152,11 @@
           0.271
         ],
         [
-          -1.223,
-          0.454
+          -1.76,
+          -0.713
         ]
       ],
-      "quadrant": "Mejorando"
+      "quadrant": "Rezagando"
     },
     "XLP": {
       "full_name": "Consumo básico",
@@ -190,8 +190,8 @@
           -1.917
         ],
         [
-          -1.373,
-          -0.616
+          -1.155,
+          -0.423
         ]
       ],
       "quadrant": "Rezagando"
@@ -228,8 +228,8 @@
           -1.906
         ],
         [
-          -2.094,
-          -1.69
+          -1.602,
+          -1.156
         ]
       ],
       "quadrant": "Rezagando"
@@ -266,11 +266,11 @@
           -1.596
         ],
         [
-          -1.377,
-          -0.061
+          -0.769,
+          1.007
         ]
       ],
-      "quadrant": "Rezagando"
+      "quadrant": "Mejorando"
     },
     "XLB": {
       "full_name": "Materiales",
@@ -304,11 +304,11 @@
           -2.089
         ],
         [
-          -1.05,
-          -0.211
+          -0.802,
+          0.171
         ]
       ],
-      "quadrant": "Rezagando"
+      "quadrant": "Mejorando"
     },
     "XLU": {
       "full_name": "Utilities",
@@ -342,8 +342,8 @@
           -1.627
         ],
         [
-          -1.712,
-          -1.378
+          -1.892,
+          -1.657
         ]
       ],
       "quadrant": "Rezagando"
@@ -380,8 +380,8 @@
           -0.504
         ],
         [
-          -0.293,
-          -0.158
+          -0.096,
+          -0.028
         ]
       ],
       "quadrant": "Rezagando"
@@ -418,8 +418,8 @@
           1.312
         ],
         [
-          1.979,
-          1.166
+          1.786,
+          0.992
         ]
       ],
       "quadrant": "Liderando"
@@ -456,11 +456,11 @@
           -1.557
         ],
         [
-          -1.663,
-          -0.454
+          -1.215,
+          0.97
         ]
       ],
-      "quadrant": "Rezagando"
+      "quadrant": "Mejorando"
     }
   }
 }
