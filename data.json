@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:30:11.418266+00:00",
+  "generated_at": "2026-09-24T17:42:20.472787+00:00",
   "benchmark": "SPY",
   "params": {
     "zscore_window": 12,
@@ -48,10 +48,6 @@
       "full_name": "Financiero",
       "tail": [
         [
-          -0.727,
-          0.76
-        ],
-        [
           -0.359,
           0.46
         ],
@@ -78,6 +74,10 @@
         [
           -1.693,
           -1.169
+        ],
+        [
+          -1.422,
+          -0.309
         ]
       ],
       "quadrant": "Rezagando"
@@ -200,10 +200,6 @@
       "full_name": "Energía",
       "tail": [
         [
-          0.482,
-          -0.856
-        ],
-        [
           1.705,
           0.101
         ],
@@ -230,9 +226,13 @@
         [
           -1.244,
           -0.851
+        ],
+        [
+          -0.747,
+          0.825
         ]
       ],
-      "quadrant": "Rezagando"
+      "quadrant": "Mejorando"
     },
     "XLI": {
       "full_name": "Industrial",
@@ -390,10 +390,6 @@
       "full_name": "Semiconductores",
       "tail": [
         [
-          -1.3,
-          -1.844
-        ],
-        [
           -0.866,
           -0.924
         ],
@@ -420,9 +416,13 @@
         [
           1.499,
           0.546
+        ],
+        [
+          1.179,
+          -0.09
         ]
       ],
-      "quadrant": "Liderando"
+      "quadrant": "Debilitando"
     },
     "ITA": {
       "full_name": "Aeroespacial y Defensa",
